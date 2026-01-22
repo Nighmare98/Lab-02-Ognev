@@ -6,7 +6,7 @@ public static class ProcessingModule
         if (!ValidationModule.IsValidString(text))
             return 0;
 
-            char[] vowels = { 'à', 'å', '¸', 'è', 'î', 'ó', 'û', 'ı', 'ş', 'ÿ' };
+            char[] vowels = { 'Ğ°', 'Ğµ', 'Ñ‘', 'Ğ¸', 'Ğ¾', 'Ñƒ', 'Ñ‹', 'Ñ', 'Ñ', 'Ñ' };
 
             int count = 0;
 
