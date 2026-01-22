@@ -1,4 +1,4 @@
-Лабораторная работа № 1  
+Лабораторная работа № 2  
 Разработка структуры проекта
 
 **Исполнитель**  
@@ -12,6 +12,7 @@
 - `src/ConsoleApp/` — консольное приложение с решением задачи
 
 ## Порядок запуска
-1. https://github.com/Nighmare98/Lab-01-Ognev.git 
+1. https://github.com/Nighmare98/Lab-02-Ognev.git 
 2. Открыть ConsoleApp.sln в Visual Studio  
+
 3. Запустить (F5)
