@@ -4,7 +4,7 @@ public static class InputModule
 {
     public static string GetInput()
     {
-        Console.WriteLine("Введите строку: ");
+        Console.WriteLine("Р’РІРµРґРёС‚Рµ СЃС‚СЂРѕРєСѓ: ");
         string input = Console.ReadLine();
         return input;
     }
